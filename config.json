@@ -17,9 +17,9 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100093685579556",
-    "100040009717781",
-    "7986823578029167"
+    "100034049240014",
+    "8066643880067913",
+    "61557988164733"
   ],
   "whiteListMode": {
     "enable": false,
@@ -29,9 +29,9 @@
   "OWNER": "KARAN JALVANSHI",
   "AGE": "20",
   "GENDER": "MALE",
-  "nickNameBot": "Sarkari gf",
+  "nickNameBot": "𝐁𝐎𝐓 𝐊𝐈𝐍𝐆[.]",
   "FACEBOOK": "https://www.facebook.com/Legend.king.jalvanshi",
-  "prefix": ",",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
